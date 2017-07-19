@@ -1,0 +1,2173 @@
+<?xml version="1.0"?>
+<SlimsPrediction>
+<TimeSystem>Local Std or Daylight Time</TimeSystem>
+<Port>Picton</Port>
+<StationID>43</StationID>
+<Year>2017</Year>
+<Latitude>41&#176; 17&apos; S</Latitude>
+<Longitude>174&#176; 00&apos; E</Longitude>
+<Month Name="January 2017">
+<Day Num="1" Name="Su">
+<HiLo><Time>0525</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1213</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1733</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="2" Name="Mo">
+<HiLo><Time>0029</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0559</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1247</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1810</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="3" Name="Tu">
+<HiLo><Time>0104</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0635</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1323</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1848</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="4" Name="We">
+<HiLo><Time>0140</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0713</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1401</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1930</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="5" Name="Th">
+<HiLo><Time>0218</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0755</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1444</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>2017</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="6" Name="Fr">
+<HiLo><Time>0259</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0844</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1535</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>2109</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="7" Name="Sa">
+<HiLo><Time>0351</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0945</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1639</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2210</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="8" Name="Su">
+<HiLo><Time>0508</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1102</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1753</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2317</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="9" Name="Mo">
+<HiLo><Time>0654</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1223</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1910</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="10" Name="Tu">
+<HiLo><Time>0025</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0825</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1334</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2021</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="11" Name="We">
+<HiLo><Time>0130</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0928</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1433</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2123</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="12" Name="Th">
+<HiLo><Time>0230</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1018</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1523</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2217</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="13" Name="Fr">
+<HiLo><Time>0325</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1101</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1608</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2304</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="14" Name="Sa">
+<HiLo><Time>0414</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1139</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1651</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2347</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="15" Name="Su">
+<HiLo><Time>0459</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1215</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1731</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="16" Name="Mo">
+<HiLo><Time>0025</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0540</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1248</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1811</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="17" Name="Tu">
+<HiLo><Time>0101</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0620</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1319</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1850</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="18" Name="We">
+<HiLo><Time>0134</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0659</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1348</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1930</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="19" Name="Th">
+<HiLo><Time>0206</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0738</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1417</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>2012</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="20" Name="Fr">
+<HiLo><Time>0239</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0819</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1450</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2058</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="21" Name="Sa">
+<HiLo><Time>0317</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0906</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1532</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2152</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="22" Name="Su">
+<HiLo><Time>0405</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1009</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1633</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2257</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="23" Name="Mo">
+<HiLo><Time>0517</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1132</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1802</Time><Level>1.0</Level></HiLo>
+</Day>
+<Day Num="24" Name="Tu">
+<HiLo><Time>0010</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>0711</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1255</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1944</Time><Level>1.0</Level></HiLo>
+</Day>
+<Day Num="25" Name="We">
+<HiLo><Time>0122</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>0845</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1401</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>2102</Time><Level>1.0</Level></HiLo>
+</Day>
+<Day Num="26" Name="Th">
+<HiLo><Time>0227</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>0938</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1451</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2155</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="27" Name="Fr">
+<HiLo><Time>0322</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1018</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1533</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2238</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="28" Name="Sa">
+<HiLo><Time>0404</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1054</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1609</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2315</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="29" Name="Su">
+<HiLo><Time>0440</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1129</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1644</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2351</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="30" Name="Mo">
+<HiLo><Time>0513</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1202</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1719</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="31" Name="Tu">
+<HiLo><Time>0025</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0546</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1236</Time><Level>1.6</Level></HiLo>
+<HiLo><Time>1754</Time><Level>0.0</Level></HiLo>
+</Day>
+</Month>
+<Month Name="February 2017">
+<Day Num="1" Name="We">
+<HiLo><Time>0058</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0620</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1311</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1832</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="2" Name="Th">
+<HiLo><Time>0131</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0656</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1347</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1911</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="3" Name="Fr">
+<HiLo><Time>0203</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0735</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1426</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1953</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="4" Name="Sa">
+<HiLo><Time>0237</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0819</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1510</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>2040</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="5" Name="Su">
+<HiLo><Time>0314</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0913</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1602</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2134</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="6" Name="Mo">
+<HiLo><Time>0403</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1024</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1709</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2237</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="7" Name="Tu">
+<HiLo><Time>0550</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1150</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1832</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2350</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="8" Name="We">
+<HiLo><Time>0804</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1310</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1959</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="9" Name="Th">
+<HiLo><Time>0104</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>0917</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1415</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2113</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="10" Name="Fr">
+<HiLo><Time>0212</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1008</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1508</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2210</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="11" Name="Sa">
+<HiLo><Time>0312</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1050</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1555</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2257</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="12" Name="Su">
+<HiLo><Time>0402</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1128</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1636</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2337</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="13" Name="Mo">
+<HiLo><Time>0446</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1202</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1715</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="14" Name="Tu">
+<HiLo><Time>0012</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0525</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1233</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1752</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="15" Name="We">
+<HiLo><Time>0043</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0601</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1300</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1828</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="16" Name="Th">
+<HiLo><Time>0112</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0636</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1325</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1903</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="17" Name="Fr">
+<HiLo><Time>0139</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0710</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1349</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1939</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="18" Name="Sa">
+<HiLo><Time>0207</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0745</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1416</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2017</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="19" Name="Su">
+<HiLo><Time>0238</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0823</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1449</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2059</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="20" Name="Mo">
+<HiLo><Time>0315</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0911</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1533</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2153</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="21" Name="Tu">
+<HiLo><Time>0405</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1025</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1641</Time><Level>0.9</Level></HiLo>
+<HiLo><Time>2310</Time><Level>0.5</Level></HiLo>
+</Day>
+<Day Num="22" Name="We">
+<HiLo><Time>0538</Time><Level>0.9</Level></HiLo>
+<HiLo><Time>1205</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1834</Time><Level>0.9</Level></HiLo>
+</Day>
+<Day Num="23" Name="Th">
+<HiLo><Time>0038</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>0803</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1325</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>2038</Time><Level>1.0</Level></HiLo>
+</Day>
+<Day Num="24" Name="Fr">
+<HiLo><Time>0158</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>0913</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1423</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>2141</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="25" Name="Sa">
+<HiLo><Time>0301</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>0957</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1509</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2224</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="26" Name="Su">
+<HiLo><Time>0346</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1035</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1547</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2302</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="27" Name="Mo">
+<HiLo><Time>0422</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1110</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1623</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2337</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="28" Name="Tu">
+<HiLo><Time>0455</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1145</Time><Level>1.6</Level></HiLo>
+<HiLo><Time>1659</Time><Level>0.0</Level></HiLo>
+</Day>
+</Month>
+<Month Name="March 2017">
+<Day Num="1" Name="We">
+<HiLo><Time>0010</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0528</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1219</Time><Level>1.6</Level></HiLo>
+<HiLo><Time>1735</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="2" Name="Th">
+<HiLo><Time>0043</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>0602</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1254</Time><Level>1.6</Level></HiLo>
+<HiLo><Time>1812</Time><Level>-0.1</Level></HiLo>
+</Day>
+<Day Num="3" Name="Fr">
+<HiLo><Time>0114</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0637</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1329</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1850</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="4" Name="Sa">
+<HiLo><Time>0145</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0715</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1406</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1931</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="5" Name="Su">
+<HiLo><Time>0215</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0757</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1446</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>2015</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="6" Name="Mo">
+<HiLo><Time>0247</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0847</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1533</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2105</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="7" Name="Tu">
+<HiLo><Time>0324</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0955</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1634</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2207</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="8" Name="We">
+<HiLo><Time>0439</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1123</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1801</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2322</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="9" Name="Th">
+<HiLo><Time>0743</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1246</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1943</Time><Level>1.0</Level></HiLo>
+</Day>
+<Day Num="10" Name="Fr">
+<HiLo><Time>0042</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>0901</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1354</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2102</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="11" Name="Sa">
+<HiLo><Time>0155</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>0952</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1449</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2158</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="12" Name="Su">
+<HiLo><Time>0257</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1033</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1536</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2242</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="13" Name="Mo">
+<HiLo><Time>0347</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1109</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1616</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2319</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="14" Name="Tu">
+<HiLo><Time>0428</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1141</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1654</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2351</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="15" Name="We">
+<HiLo><Time>0505</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1210</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1729</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="16" Name="Th">
+<HiLo><Time>0020</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0539</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1235</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1803</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="17" Name="Fr">
+<HiLo><Time>0046</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0611</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1258</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1836</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="18" Name="Sa">
+<HiLo><Time>0112</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0642</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1321</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1908</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="19" Name="Su">
+<HiLo><Time>0138</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0715</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1347</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1942</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="20" Name="Mo">
+<HiLo><Time>0208</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0749</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1417</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2019</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="21" Name="Tu">
+<HiLo><Time>0242</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0831</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1457</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2106</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="22" Name="We">
+<HiLo><Time>0326</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0932</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1554</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2217</Time><Level>0.5</Level></HiLo>
+</Day>
+<Day Num="23" Name="Th">
+<HiLo><Time>0439</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1111</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1739</Time><Level>0.9</Level></HiLo>
+<HiLo><Time>2353</Time><Level>0.5</Level></HiLo>
+</Day>
+<Day Num="24" Name="Fr">
+<HiLo><Time>0659</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1240</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>2000</Time><Level>1.0</Level></HiLo>
+</Day>
+<Day Num="25" Name="Sa">
+<HiLo><Time>0120</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>0833</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1345</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>2113</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="26" Name="Su">
+<HiLo><Time>0226</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>0925</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1435</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2159</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="27" Name="Mo">
+<HiLo><Time>0315</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1006</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1517</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2238</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="28" Name="Tu">
+<HiLo><Time>0354</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1044</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1556</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2314</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="29" Name="We">
+<HiLo><Time>0430</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1121</Time><Level>1.6</Level></HiLo>
+<HiLo><Time>1634</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2349</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="30" Name="Th">
+<HiLo><Time>0505</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1157</Time><Level>1.6</Level></HiLo>
+<HiLo><Time>1711</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="31" Name="Fr">
+<HiLo><Time>0022</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>0540</Time><Level>-0.1</Level></HiLo>
+<HiLo><Time>1233</Time><Level>1.6</Level></HiLo>
+<HiLo><Time>1749</Time><Level>-0.1</Level></HiLo>
+</Day>
+</Month>
+<Month Name="April 2017">
+<Day Num="1" Name="Sa">
+<HiLo><Time>0055</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>0617</Time><Level>-0.1</Level></HiLo>
+<HiLo><Time>1309</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1828</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="2" Name="Su">
+<HiLo><Time>0126</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0556</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1246</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1809</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="3" Name="Mo">
+<HiLo><Time>0057</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0639</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1326</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1854</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="4" Name="Tu">
+<HiLo><Time>0129</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0729</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1412</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1944</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="5" Name="We">
+<HiLo><Time>0206</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0835</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1512</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2045</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="6" Name="Th">
+<HiLo><Time>0316</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>0959</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1639</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2201</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="7" Name="Fr">
+<HiLo><Time>0611</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1120</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1822</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2321</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="8" Name="Sa">
+<HiLo><Time>0733</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1227</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1940</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="9" Name="Su">
+<HiLo><Time>0034</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>0825</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1323</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2035</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="10" Name="Mo">
+<HiLo><Time>0135</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0907</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1409</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2118</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="11" Name="Tu">
+<HiLo><Time>0224</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0943</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1450</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2154</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="12" Name="We">
+<HiLo><Time>0305</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1014</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1528</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2226</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="13" Name="Th">
+<HiLo><Time>0341</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1042</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1603</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2254</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="14" Name="Fr">
+<HiLo><Time>0413</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1107</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1636</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2321</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="15" Name="Sa">
+<HiLo><Time>0445</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1130</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1708</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2347</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="16" Name="Su">
+<HiLo><Time>0516</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1154</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1741</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="17" Name="Mo">
+<HiLo><Time>0015</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0549</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1222</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1814</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="18" Name="Tu">
+<HiLo><Time>0046</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0624</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1255</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1852</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="19" Name="We">
+<HiLo><Time>0121</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0706</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1336</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1938</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="20" Name="Th">
+<HiLo><Time>0206</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0803</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1432</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2043</Time><Level>0.5</Level></HiLo>
+</Day>
+<Day Num="21" Name="Fr">
+<HiLo><Time>0313</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>0925</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1605</Time><Level>0.9</Level></HiLo>
+<HiLo><Time>2212</Time><Level>0.5</Level></HiLo>
+</Day>
+<Day Num="22" Name="Sa">
+<HiLo><Time>0503</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1051</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1808</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2337</Time><Level>0.5</Level></HiLo>
+</Day>
+<Day Num="23" Name="Su">
+<HiLo><Time>0639</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1159</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1931</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="24" Name="Mo">
+<HiLo><Time>0045</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>0742</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1253</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2024</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="25" Name="Tu">
+<HiLo><Time>0138</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0830</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1340</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2108</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="26" Name="We">
+<HiLo><Time>0222</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>0913</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1424</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2148</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="27" Name="Th">
+<HiLo><Time>0302</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>0953</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1505</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2225</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="28" Name="Fr">
+<HiLo><Time>0341</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1032</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1546</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2301</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="29" Name="Sa">
+<HiLo><Time>0419</Time><Level>-0.1</Level></HiLo>
+<HiLo><Time>1111</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1627</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2336</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="30" Name="Su">
+<HiLo><Time>0458</Time><Level>-0.1</Level></HiLo>
+<HiLo><Time>1150</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1708</Time><Level>0.0</Level></HiLo>
+</Day>
+</Month>
+<Month Name="May 2017">
+<Day Num="1" Name="Mo">
+<HiLo><Time>0010</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0539</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1229</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1751</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="2" Name="Tu">
+<HiLo><Time>0043</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0623</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1311</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1837</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="3" Name="We">
+<HiLo><Time>0119</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0715</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1359</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1928</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="4" Name="Th">
+<HiLo><Time>0202</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0818</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1458</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2028</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="5" Name="Fr">
+<HiLo><Time>0315</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0934</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1616</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2140</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="6" Name="Sa">
+<HiLo><Time>0523</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1049</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1747</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2257</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="7" Name="Su">
+<HiLo><Time>0650</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1153</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1905</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="8" Name="Mo">
+<HiLo><Time>0008</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>0748</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1248</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2002</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="9" Name="Tu">
+<HiLo><Time>0108</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0832</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1337</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2048</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="10" Name="We">
+<HiLo><Time>0157</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0910</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1420</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2126</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="11" Name="Th">
+<HiLo><Time>0238</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0943</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1500</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2159</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="12" Name="Fr">
+<HiLo><Time>0315</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1012</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1536</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2229</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="13" Name="Sa">
+<HiLo><Time>0349</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1039</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1611</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2258</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="14" Name="Su">
+<HiLo><Time>0421</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1106</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1645</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2326</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="15" Name="Mo">
+<HiLo><Time>0454</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1134</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1718</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2357</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="16" Name="Tu">
+<HiLo><Time>0528</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1206</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1754</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="17" Name="We">
+<HiLo><Time>0030</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0605</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1243</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1833</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="18" Name="Th">
+<HiLo><Time>0108</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0649</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1326</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1919</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="19" Name="Fr">
+<HiLo><Time>0155</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0742</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1421</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2018</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="20" Name="Sa">
+<HiLo><Time>0257</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0850</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1538</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2134</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="21" Name="Su">
+<HiLo><Time>0421</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1004</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1714</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2253</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="22" Name="Mo">
+<HiLo><Time>0546</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1111</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1840</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="23" Name="Tu">
+<HiLo><Time>0003</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>0654</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1210</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1945</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="24" Name="We">
+<HiLo><Time>0101</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0750</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1302</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2036</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="25" Name="Th">
+<HiLo><Time>0151</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>0840</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1351</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2121</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="26" Name="Fr">
+<HiLo><Time>0235</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>0925</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1437</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2203</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="27" Name="Sa">
+<HiLo><Time>0318</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1009</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1522</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2242</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="28" Name="Su">
+<HiLo><Time>0359</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1051</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1606</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2320</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="29" Name="Mo">
+<HiLo><Time>0441</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1133</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1650</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2357</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="30" Name="Tu">
+<HiLo><Time>0523</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1216</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1735</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="31" Name="We">
+<HiLo><Time>0034</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0609</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1259</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1822</Time><Level>0.2</Level></HiLo>
+</Day>
+</Month>
+<Month Name="June 2017">
+<Day Num="1" Name="Th">
+<HiLo><Time>0113</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0659</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1346</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1912</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="2" Name="Fr">
+<HiLo><Time>0157</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0757</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1439</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2008</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="3" Name="Sa">
+<HiLo><Time>0257</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0902</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1542</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2113</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="4" Name="Su">
+<HiLo><Time>0423</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1010</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1656</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2225</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="5" Name="Mo">
+<HiLo><Time>0549</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1112</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1814</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2335</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="6" Name="Tu">
+<HiLo><Time>0657</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1209</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1921</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="7" Name="We">
+<HiLo><Time>0036</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0750</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1301</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2013</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="8" Name="Th">
+<HiLo><Time>0128</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0833</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1349</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2056</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="9" Name="Fr">
+<HiLo><Time>0212</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0911</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1432</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2133</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="10" Name="Sa">
+<HiLo><Time>0251</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0945</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1512</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2207</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="11" Name="Su">
+<HiLo><Time>0326</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1017</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1550</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2239</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="12" Name="Mo">
+<HiLo><Time>0401</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1050</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1626</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2311</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="13" Name="Tu">
+<HiLo><Time>0435</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1123</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1701</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2344</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="14" Name="We">
+<HiLo><Time>0511</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1159</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1737</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="15" Name="Th">
+<HiLo><Time>0019</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0549</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1237</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1817</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="16" Name="Fr">
+<HiLo><Time>0059</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0632</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1319</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1901</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="17" Name="Sa">
+<HiLo><Time>0144</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0721</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1408</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1953</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="18" Name="Su">
+<HiLo><Time>0239</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0817</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1507</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2057</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="19" Name="Mo">
+<HiLo><Time>0345</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0921</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1622</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2211</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="20" Name="Tu">
+<HiLo><Time>0458</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1026</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1746</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2324</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="21" Name="We">
+<HiLo><Time>0608</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1128</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1904</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="22" Name="Th">
+<HiLo><Time>0027</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0712</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1226</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2007</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="23" Name="Fr">
+<HiLo><Time>0123</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0809</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1320</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2059</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="24" Name="Sa">
+<HiLo><Time>0212</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>0901</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1412</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2145</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="25" Name="Su">
+<HiLo><Time>0258</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>0950</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1501</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2227</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="26" Name="Mo">
+<HiLo><Time>0342</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1036</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1548</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2307</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="27" Name="Tu">
+<HiLo><Time>0424</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1120</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1634</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2345</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="28" Name="We">
+<HiLo><Time>0507</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1203</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1719</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="29" Name="Th">
+<HiLo><Time>0022</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0552</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1244</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1804</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="30" Name="Fr">
+<HiLo><Time>0059</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0638</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1325</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1850</Time><Level>0.2</Level></HiLo>
+</Day>
+</Month>
+<Month Name="July 2017">
+<Day Num="1" Name="Sa">
+<HiLo><Time>0139</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0728</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1409</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1940</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="2" Name="Su">
+<HiLo><Time>0224</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0824</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1457</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2037</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="3" Name="Mo">
+<HiLo><Time>0321</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0924</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1554</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2144</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="4" Name="Tu">
+<HiLo><Time>0432</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1026</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1706</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2256</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="5" Name="We">
+<HiLo><Time>0548</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1127</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1827</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="6" Name="Th">
+<HiLo><Time>0003</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>0657</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1225</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1937</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="7" Name="Fr">
+<HiLo><Time>0100</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0755</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1319</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2029</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="8" Name="Sa">
+<HiLo><Time>0148</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0843</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1409</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2111</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="9" Name="Su">
+<HiLo><Time>0229</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0925</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1453</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2148</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="10" Name="Mo">
+<HiLo><Time>0307</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1004</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1533</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2223</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="11" Name="Tu">
+<HiLo><Time>0342</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1040</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1609</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2257</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="12" Name="We">
+<HiLo><Time>0417</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1116</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1645</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2331</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="13" Name="Th">
+<HiLo><Time>0453</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1152</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1720</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="14" Name="Fr">
+<HiLo><Time>0007</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0531</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1228</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1758</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="15" Name="Sa">
+<HiLo><Time>0045</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0612</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1305</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1838</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="16" Name="Su">
+<HiLo><Time>0127</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0656</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1346</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1925</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="17" Name="Mo">
+<HiLo><Time>0214</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0746</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1431</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2021</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="18" Name="Tu">
+<HiLo><Time>0311</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0842</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1530</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2130</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="19" Name="We">
+<HiLo><Time>0416</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0944</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1651</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2248</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="20" Name="Th">
+<HiLo><Time>0527</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1050</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1827</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2359</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="21" Name="Fr">
+<HiLo><Time>0638</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1155</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1945</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="22" Name="Sa">
+<HiLo><Time>0100</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0745</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1256</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2044</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="23" Name="Su">
+<HiLo><Time>0153</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>0844</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1353</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2132</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="24" Name="Mo">
+<HiLo><Time>0241</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>0937</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1445</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2214</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="25" Name="Tu">
+<HiLo><Time>0325</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1024</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1533</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2253</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="26" Name="We">
+<HiLo><Time>0407</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1106</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1618</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2330</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="27" Name="Th">
+<HiLo><Time>0449</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1145</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1700</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="28" Name="Fr">
+<HiLo><Time>0004</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>0530</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1221</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1741</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="29" Name="Sa">
+<HiLo><Time>0036</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0611</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1256</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1823</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="30" Name="Su">
+<HiLo><Time>0108</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0655</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1331</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1906</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="31" Name="Mo">
+<HiLo><Time>0143</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0741</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1408</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1954</Time><Level>0.3</Level></HiLo>
+</Day>
+</Month>
+<Month Name="August 2017">
+<Day Num="1" Name="Tu">
+<HiLo><Time>0224</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0833</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1452</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2053</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="2" Name="We">
+<HiLo><Time>0318</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>0934</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1551</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2210</Time><Level>0.5</Level></HiLo>
+</Day>
+<Day Num="3" Name="Th">
+<HiLo><Time>0431</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1041</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1718</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2328</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="4" Name="Fr">
+<HiLo><Time>0559</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1149</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1859</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="5" Name="Sa">
+<HiLo><Time>0033</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>0723</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1253</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>2006</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="6" Name="Su">
+<HiLo><Time>0125</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0825</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1350</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2052</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="7" Name="Mo">
+<HiLo><Time>0209</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0913</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1437</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2130</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="8" Name="Tu">
+<HiLo><Time>0247</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>0953</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1517</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2206</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="9" Name="We">
+<HiLo><Time>0323</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1029</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1552</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2240</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="10" Name="Th">
+<HiLo><Time>0358</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1104</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1626</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2314</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="11" Name="Fr">
+<HiLo><Time>0434</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1137</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1700</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2349</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="12" Name="Sa">
+<HiLo><Time>0510</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1211</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1736</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="13" Name="Su">
+<HiLo><Time>0025</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>0549</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1244</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1814</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="14" Name="Mo">
+<HiLo><Time>0104</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0630</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1319</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1857</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="15" Name="Tu">
+<HiLo><Time>0147</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0716</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1356</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1947</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="16" Name="We">
+<HiLo><Time>0237</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0807</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1442</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2053</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="17" Name="Th">
+<HiLo><Time>0338</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0907</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1554</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2216</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="18" Name="Fr">
+<HiLo><Time>0453</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1017</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1757</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2336</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="19" Name="Sa">
+<HiLo><Time>0614</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1129</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1932</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="20" Name="Su">
+<HiLo><Time>0042</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0731</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1237</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2032</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="21" Name="Mo">
+<HiLo><Time>0137</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0835</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1338</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2118</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="22" Name="Tu">
+<HiLo><Time>0225</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>0926</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1431</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2159</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="23" Name="We">
+<HiLo><Time>0308</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1010</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1517</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2235</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="24" Name="Th">
+<HiLo><Time>0348</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1048</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1559</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2309</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="25" Name="Fr">
+<HiLo><Time>0427</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1122</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1638</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2339</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="26" Name="Sa">
+<HiLo><Time>0505</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1154</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1716</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="27" Name="Su">
+<HiLo><Time>0006</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0542</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1223</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1752</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="28" Name="Mo">
+<HiLo><Time>0033</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0620</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1253</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1830</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="29" Name="Tu">
+<HiLo><Time>0101</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0659</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1324</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1910</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="30" Name="We">
+<HiLo><Time>0135</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0742</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1401</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1959</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="31" Name="Th">
+<HiLo><Time>0219</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0836</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1450</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2111</Time><Level>0.5</Level></HiLo>
+</Day>
+</Month>
+<Month Name="September 2017">
+<Day Num="1" Name="Fr">
+<HiLo><Time>0323</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>0950</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1607</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2246</Time><Level>0.5</Level></HiLo>
+</Day>
+<Day Num="2" Name="Sa">
+<HiLo><Time>0502</Time><Level>0.9</Level></HiLo>
+<HiLo><Time>1113</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1813</Time><Level>1.0</Level></HiLo>
+</Day>
+<Day Num="3" Name="Su">
+<HiLo><Time>0003</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>0700</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1229</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1939</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="4" Name="Mo">
+<HiLo><Time>0101</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0811</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1330</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>2028</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="5" Name="Tu">
+<HiLo><Time>0146</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0857</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1418</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2108</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="6" Name="We">
+<HiLo><Time>0225</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>0936</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1457</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2144</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="7" Name="Th">
+<HiLo><Time>0301</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1011</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1531</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2218</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="8" Name="Fr">
+<HiLo><Time>0336</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1045</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1604</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2253</Time><Level>1.6</Level></HiLo>
+</Day>
+<Day Num="9" Name="Sa">
+<HiLo><Time>0411</Time><Level>-0.1</Level></HiLo>
+<HiLo><Time>1117</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1638</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2327</Time><Level>1.6</Level></HiLo>
+</Day>
+<Day Num="10" Name="Su">
+<HiLo><Time>0447</Time><Level>-0.1</Level></HiLo>
+<HiLo><Time>1149</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1713</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="11" Name="Mo">
+<HiLo><Time>0003</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>0525</Time><Level>-0.1</Level></HiLo>
+<HiLo><Time>1221</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1751</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="12" Name="Tu">
+<HiLo><Time>0039</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0605</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1252</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1832</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="13" Name="We">
+<HiLo><Time>0120</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0648</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1325</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1920</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="14" Name="Th">
+<HiLo><Time>0206</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0737</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1404</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2023</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="15" Name="Fr">
+<HiLo><Time>0306</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0836</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1505</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2148</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="16" Name="Sa">
+<HiLo><Time>0426</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>0949</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1737</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2315</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="17" Name="Su">
+<HiLo><Time>0600</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1109</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1918</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="18" Name="Mo">
+<HiLo><Time>0024</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0723</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1222</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2016</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="19" Name="Tu">
+<HiLo><Time>0119</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0824</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1324</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2101</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="20" Name="We">
+<HiLo><Time>0206</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>0911</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1416</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2139</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="21" Name="Th">
+<HiLo><Time>0248</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>0951</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1500</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2213</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="22" Name="Fr">
+<HiLo><Time>0327</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1026</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1539</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2243</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="23" Name="Sa">
+<HiLo><Time>0403</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1057</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1615</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2310</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="24" Name="Su">
+<HiLo><Time>0538</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1225</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1750</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="25" Name="Mo">
+<HiLo><Time>0035</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0613</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1252</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1823</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="26" Name="Tu">
+<HiLo><Time>0058</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0647</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1320</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1857</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="27" Name="We">
+<HiLo><Time>0124</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0722</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1349</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1933</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="28" Name="Th">
+<HiLo><Time>0155</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0800</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1424</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2014</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="29" Name="Fr">
+<HiLo><Time>0234</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0846</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1507</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2114</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="30" Name="Sa">
+<HiLo><Time>0330</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>0955</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1614</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2252</Time><Level>0.5</Level></HiLo>
+</Day>
+</Month>
+<Month Name="October 2017">
+<Day Num="1" Name="Su">
+<HiLo><Time>0511</Time><Level>0.9</Level></HiLo>
+<HiLo><Time>1132</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1819</Time><Level>1.0</Level></HiLo>
+</Day>
+<Day Num="2" Name="Mo">
+<HiLo><Time>0024</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>0732</Time><Level>0.9</Level></HiLo>
+<HiLo><Time>1259</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>2001</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="3" Name="Tu">
+<HiLo><Time>0128</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>0848</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1404</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>2057</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="4" Name="We">
+<HiLo><Time>0216</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0934</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1453</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2139</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="5" Name="Th">
+<HiLo><Time>0257</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1013</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1532</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2217</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="6" Name="Fr">
+<HiLo><Time>0334</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1049</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1607</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2253</Time><Level>1.6</Level></HiLo>
+</Day>
+<Day Num="7" Name="Sa">
+<HiLo><Time>0411</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1123</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1642</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2329</Time><Level>1.6</Level></HiLo>
+</Day>
+<Day Num="8" Name="Su">
+<HiLo><Time>0447</Time><Level>-0.1</Level></HiLo>
+<HiLo><Time>1156</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1716</Time><Level>-0.1</Level></HiLo>
+</Day>
+<Day Num="9" Name="Mo">
+<HiLo><Time>0004</Time><Level>1.6</Level></HiLo>
+<HiLo><Time>0524</Time><Level>-0.1</Level></HiLo>
+<HiLo><Time>1228</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1752</Time><Level>-0.1</Level></HiLo>
+</Day>
+<Day Num="10" Name="Tu">
+<HiLo><Time>0040</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>0602</Time><Level>-0.1</Level></HiLo>
+<HiLo><Time>1300</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1830</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="11" Name="We">
+<HiLo><Time>0117</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0642</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1331</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1911</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="12" Name="Th">
+<HiLo><Time>0156</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0725</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1404</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1959</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="13" Name="Fr">
+<HiLo><Time>0242</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0814</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1441</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2100</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="14" Name="Sa">
+<HiLo><Time>0340</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0912</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1538</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2223</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="15" Name="Su">
+<HiLo><Time>0504</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1026</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1814</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2350</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="16" Name="Mo">
+<HiLo><Time>0646</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1149</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1954</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="17" Name="Tu">
+<HiLo><Time>0101</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0808</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1304</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>2053</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="18" Name="We">
+<HiLo><Time>0157</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0906</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1407</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2137</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="19" Name="Th">
+<HiLo><Time>0244</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>0951</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1458</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2215</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="20" Name="Fr">
+<HiLo><Time>0325</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1030</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1540</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2248</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="21" Name="Sa">
+<HiLo><Time>0404</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1103</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1618</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2317</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="22" Name="Su">
+<HiLo><Time>0440</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1133</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1653</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2343</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="23" Name="Mo">
+<HiLo><Time>0514</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1201</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1726</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="24" Name="Tu">
+<HiLo><Time>0006</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0547</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1227</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1758</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="25" Name="We">
+<HiLo><Time>0030</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0620</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1255</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1831</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="26" Name="Th">
+<HiLo><Time>0057</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0654</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1325</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1906</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="27" Name="Fr">
+<HiLo><Time>0128</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0730</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1359</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1945</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="28" Name="Sa">
+<HiLo><Time>0206</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0812</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1441</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2038</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="29" Name="Su">
+<HiLo><Time>0257</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>0912</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1542</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2157</Time><Level>0.5</Level></HiLo>
+</Day>
+<Day Num="30" Name="Mo">
+<HiLo><Time>0427</Time><Level>0.9</Level></HiLo>
+<HiLo><Time>1043</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1726</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2330</Time><Level>0.5</Level></HiLo>
+</Day>
+<Day Num="31" Name="Tu">
+<HiLo><Time>0642</Time><Level>0.9</Level></HiLo>
+<HiLo><Time>1216</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1909</Time><Level>1.1</Level></HiLo>
+</Day>
+</Month>
+<Month Name="November 2017">
+<Day Num="1" Name="We">
+<HiLo><Time>0042</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>0810</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1327</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>2016</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="2" Name="Th">
+<HiLo><Time>0137</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0904</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1421</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2105</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="3" Name="Fr">
+<HiLo><Time>0223</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0947</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1504</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2147</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="4" Name="Sa">
+<HiLo><Time>0305</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1025</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1543</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2227</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="5" Name="Su">
+<HiLo><Time>0345</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1102</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1620</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2306</Time><Level>1.6</Level></HiLo>
+</Day>
+<Day Num="6" Name="Mo">
+<HiLo><Time>0424</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1137</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1657</Time><Level>-0.1</Level></HiLo>
+<HiLo><Time>2344</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="7" Name="Tu">
+<HiLo><Time>0503</Time><Level>-0.1</Level></HiLo>
+<HiLo><Time>1211</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1735</Time><Level>-0.1</Level></HiLo>
+</Day>
+<Day Num="8" Name="We">
+<HiLo><Time>0021</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>0543</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1245</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1814</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="9" Name="Th">
+<HiLo><Time>0100</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0625</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1318</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1856</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="10" Name="Fr">
+<HiLo><Time>0141</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0708</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1353</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1944</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="11" Name="Sa">
+<HiLo><Time>0226</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0757</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1433</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2042</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="12" Name="Su">
+<HiLo><Time>0323</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0853</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1531</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2156</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="13" Name="Mo">
+<HiLo><Time>0440</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1002</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1732</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>2316</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="14" Name="Tu">
+<HiLo><Time>0614</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1122</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1915</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="15" Name="We">
+<HiLo><Time>0027</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0738</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1239</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>2020</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="16" Name="Th">
+<HiLo><Time>0126</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0840</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1344</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2108</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="17" Name="Fr">
+<HiLo><Time>0216</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0928</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1436</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2148</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="18" Name="Sa">
+<HiLo><Time>0301</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1008</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1520</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2223</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="19" Name="Su">
+<HiLo><Time>0342</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1043</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1558</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2254</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="20" Name="Mo">
+<HiLo><Time>0419</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1114</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1633</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2321</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="21" Name="Tu">
+<HiLo><Time>0454</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1142</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1706</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2346</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="22" Name="We">
+<HiLo><Time>0528</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1210</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1739</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="23" Name="Th">
+<HiLo><Time>0013</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0601</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1239</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1812</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="24" Name="Fr">
+<HiLo><Time>0042</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0635</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1310</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1847</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="25" Name="Sa">
+<HiLo><Time>0115</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0711</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1345</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1927</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="26" Name="Su">
+<HiLo><Time>0153</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0752</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1427</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2014</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="27" Name="Mo">
+<HiLo><Time>0241</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>0843</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1522</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2116</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="28" Name="Tu">
+<HiLo><Time>0350</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>0954</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1641</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2232</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="29" Name="We">
+<HiLo><Time>0535</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1121</Time><Level>0.5</Level></HiLo>
+<HiLo><Time>1812</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2346</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="30" Name="Th">
+<HiLo><Time>0716</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1241</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1927</Time><Level>1.2</Level></HiLo>
+</Day>
+</Month>
+<Month Name="December 2017">
+<Day Num="1" Name="Fr">
+<HiLo><Time>0049</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0826</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1344</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2027</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="2" Name="Sa">
+<HiLo><Time>0144</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>0919</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1435</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2117</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="3" Name="Su">
+<HiLo><Time>0234</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1004</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1519</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2203</Time><Level>1.4</Level></HiLo>
+</Day>
+<Day Num="4" Name="Mo">
+<HiLo><Time>0319</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1045</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1601</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2246</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="5" Name="Tu">
+<HiLo><Time>0403</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1123</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1641</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>2328</Time><Level>1.5</Level></HiLo>
+</Day>
+<Day Num="6" Name="We">
+<HiLo><Time>0446</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1201</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1721</Time><Level>-0.1</Level></HiLo>
+</Day>
+<Day Num="7" Name="Th">
+<HiLo><Time>0010</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0529</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1237</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1802</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="8" Name="Fr">
+<HiLo><Time>0051</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>0612</Time><Level>0.0</Level></HiLo>
+<HiLo><Time>1313</Time><Level>1.5</Level></HiLo>
+<HiLo><Time>1845</Time><Level>0.0</Level></HiLo>
+</Day>
+<Day Num="9" Name="Sa">
+<HiLo><Time>0133</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0656</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>1349</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1931</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="10" Name="Su">
+<HiLo><Time>0217</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0742</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1429</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>2023</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="11" Name="Mo">
+<HiLo><Time>0306</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0834</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1520</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2125</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="12" Name="Tu">
+<HiLo><Time>0405</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0934</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1637</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2234</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="13" Name="We">
+<HiLo><Time>0521</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1046</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1813</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2343</Time><Level>0.4</Level></HiLo>
+</Day>
+<Day Num="14" Name="Th">
+<HiLo><Time>0648</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1204</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1933</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="15" Name="Fr">
+<HiLo><Time>0047</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0805</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1314</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>2033</Time><Level>1.1</Level></HiLo>
+</Day>
+<Day Num="16" Name="Sa">
+<HiLo><Time>0144</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0903</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1413</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2121</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="17" Name="Su">
+<HiLo><Time>0236</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0949</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1500</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2202</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="18" Name="Mo">
+<HiLo><Time>0322</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1027</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1541</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>2237</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="19" Name="Tu">
+<HiLo><Time>0404</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1100</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1617</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2309</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="20" Name="We">
+<HiLo><Time>0442</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1131</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1651</Time><Level>0.1</Level></HiLo>
+<HiLo><Time>2339</Time><Level>1.3</Level></HiLo>
+</Day>
+<Day Num="21" Name="Th">
+<HiLo><Time>0516</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1200</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1724</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="22" Name="Fr">
+<HiLo><Time>0009</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>0549</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1231</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1758</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="23" Name="Sa">
+<HiLo><Time>0040</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0623</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1303</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1833</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="24" Name="Su">
+<HiLo><Time>0113</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0657</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1337</Time><Level>1.4</Level></HiLo>
+<HiLo><Time>1911</Time><Level>0.1</Level></HiLo>
+</Day>
+<Day Num="25" Name="Mo">
+<HiLo><Time>0149</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>0735</Time><Level>0.2</Level></HiLo>
+<HiLo><Time>1417</Time><Level>1.3</Level></HiLo>
+<HiLo><Time>1954</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="26" Name="Tu">
+<HiLo><Time>0230</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0819</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>1504</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2044</Time><Level>0.2</Level></HiLo>
+</Day>
+<Day Num="27" Name="We">
+<HiLo><Time>0320</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>0913</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1604</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>2144</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="28" Name="Th">
+<HiLo><Time>0428</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1026</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1718</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2251</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="29" Name="Fr">
+<HiLo><Time>0604</Time><Level>1.0</Level></HiLo>
+<HiLo><Time>1150</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1836</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>2359</Time><Level>0.3</Level></HiLo>
+</Day>
+<Day Num="30" Name="Sa">
+<HiLo><Time>0742</Time><Level>1.1</Level></HiLo>
+<HiLo><Time>1305</Time><Level>0.4</Level></HiLo>
+<HiLo><Time>1947</Time><Level>1.2</Level></HiLo>
+</Day>
+<Day Num="31" Name="Su">
+<HiLo><Time>0103</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>0853</Time><Level>1.2</Level></HiLo>
+<HiLo><Time>1407</Time><Level>0.3</Level></HiLo>
+<HiLo><Time>2049</Time><Level>1.3</Level></HiLo>
+</Day>
+</Month>
+</SlimsPrediction>
